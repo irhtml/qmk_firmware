@@ -26,8 +26,8 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         [2] = LAYOUT(
         KC_TRNS, LGUI(KC_1), LGUI(KC_2), LGUI(KC_3), LGUI(KC_4), LGUI(KC_5),        LGUI(KC_6), LGUI(KC_7), LGUI(KC_8), LGUI(KC_9), KC_NO, KC_GRV,
         KC_1, LSFT(KC_1), LSFT(KC_2), LSFT(KC_3), LSFT(KC_5), LSFT(KC_6),           KC_7, SE_GRV, SE_ACUT, KC_9, KC_0, KC_TRNS,
-        KC_TRNS, KC_TRNS, SE_AT, SE_DLR, SE_PERC, SE_ASTR,                            RALT(KC_8), RALT(KC_9), LSA(KC_8), LSA(KC_9), KC_NO, KC_NO,
-        KC_NO, KC_NO, SE_LABK, SE_RABK, SE_PIPE, KC_NO, KC_NO,              SE_LPRN, SE_LPRN, SE_RPRN, SE_BSLS, LSFT(KC_9), LSFT(KC_7), KC_TRNS,
+        KC_TRNS, KC_TRNS, SE_AT, SE_DLR, SE_PERC, SE_ASTR,                            RALT(KC_8), RALT(KC_9), LSA(KC_8), LSA(KC_9), KC_NO, SE_QUOT,
+        KC_NO, KC_NO, SE_LABK, SE_RABK, SE_PIPE, KC_NO, KC_NO,              SE_LPRN, SE_LPRN, SE_RPRN, LSFT(KC_7), SE_BSLS, KC_TRNS, KC_TRNS,
                     KC_TRNS, KC_TRNS, TG(3), KC_TRNS,                       KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS),
 
         [3] = LAYOUT(

@@ -2,6 +2,7 @@
     "manufacturer": "splitkb.com",
     "url": "https://splitkb.com",
     "maintainer": "splitkb",
+    "keyboard_name": "lily58",
     "usb": {
         "vid": "0x8D1D",
         "device_version": "1.0.0"
