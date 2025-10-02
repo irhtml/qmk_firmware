@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/tobias/www/private/zmk-lily58/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

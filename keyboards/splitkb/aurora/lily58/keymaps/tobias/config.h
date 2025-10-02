@@ -1,0 +1,4 @@
+#pragma once
+
+#define LED_CAPS_LOCK_PIN 24
+#define LED_PIN_ON_STATE 0
